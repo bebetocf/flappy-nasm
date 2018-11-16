@@ -1,4 +1,6 @@
 # FlappyNASM
+![FlappyNASM](https://github.com/bebetocf/flappy-nasm/blob/master/imgs/flappy.png)
+
 Flappy Bird implementation in NASM presented on Software Infrastructure (IF677) course during the 2015.1 class at CIn-UFPE.
 
 ## Dependencies
