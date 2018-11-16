@@ -6,11 +6,11 @@ Flappy Bird implemented on NASM presented on Software Infrastructure (IF677) cou
 ## Dependencies
 To install dependecies run
 ```bash
-sudo apt-get install qemu nasm
+sudo apt-get install qemu nasm -y
 ```
 
 ## How to Run
-To run simply
+To run, simply
 ```bash
 make all
 ```
